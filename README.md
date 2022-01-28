@@ -1,5 +1,7 @@
 # Skills Matrix
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/132a2f19-9ab8-467f-9fe6-7a4c05f81ad3.svg?orgId=498499820349)](https://app.soluble.cloud/repos/details/github.com/jeffkwiat/skills-matrix?orgId=498499820349)  
+
 ## Description
 The Skills Matrix allows users to identify Datadog employees who have a particular skillset.
 
